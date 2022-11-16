@@ -1,0 +1,9 @@
+C:\Users\crime\source\repos\Palindromo_Capicua\PalinCapBLL\bin\Debug\PalinCapBLL.dll
+C:\Users\crime\source\repos\Palindromo_Capicua\PalinCapBLL\bin\Debug\PalinCapBLL.pdb
+C:\Users\crime\source\repos\Palindromo_Capicua\PalinCapBLL\bin\Debug\PalinCapDAL.dll
+C:\Users\crime\source\repos\Palindromo_Capicua\PalinCapBLL\bin\Debug\PalinCapDAL.pdb
+C:\Users\crime\source\repos\Palindromo_Capicua\PalinCapBLL\obj\Debug\PalinCapBLL.csproj.AssemblyReference.cache
+C:\Users\crime\source\repos\Palindromo_Capicua\PalinCapBLL\obj\Debug\PalinCapBLL.csproj.CoreCompileInputs.cache
+C:\Users\crime\source\repos\Palindromo_Capicua\PalinCapBLL\obj\Debug\PalinCapBLL.csproj.CopyComplete
+C:\Users\crime\source\repos\Palindromo_Capicua\PalinCapBLL\obj\Debug\PalinCapBLL.dll
+C:\Users\crime\source\repos\Palindromo_Capicua\PalinCapBLL\obj\Debug\PalinCapBLL.pdb

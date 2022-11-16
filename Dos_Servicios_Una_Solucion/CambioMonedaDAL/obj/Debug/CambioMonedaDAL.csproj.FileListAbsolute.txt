@@ -1,0 +1,6 @@
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaDAL\bin\Debug\CambioMonedaDAL.dll
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaDAL\bin\Debug\CambioMonedaDAL.pdb
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaDAL\obj\Debug\CambioMonedaDAL.csproj.AssemblyReference.cache
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaDAL\obj\Debug\CambioMonedaDAL.csproj.CoreCompileInputs.cache
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaDAL\obj\Debug\CambioMonedaDAL.dll
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaDAL\obj\Debug\CambioMonedaDAL.pdb

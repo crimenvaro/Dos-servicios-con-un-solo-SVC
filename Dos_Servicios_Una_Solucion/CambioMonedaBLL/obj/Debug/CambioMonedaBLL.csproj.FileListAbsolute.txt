@@ -1,0 +1,10 @@
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\bin\Debug\CambioMonedaBLL.dll.config
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\bin\Debug\CambioMonedaBLL.dll
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\bin\Debug\CambioMonedaBLL.pdb
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\bin\Debug\CambioMonedaDAL.dll
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\bin\Debug\CambioMonedaDAL.pdb
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\obj\Debug\CambioMonedaBLL.csproj.AssemblyReference.cache
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\obj\Debug\CambioMonedaBLL.csproj.CoreCompileInputs.cache
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\obj\Debug\CambioMonedaBLL.csproj.CopyComplete
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\obj\Debug\CambioMonedaBLL.dll
+C:\Users\crime\source\repos\Dos_Servicios_Una_Solucion\CambioMonedaBLL\obj\Debug\CambioMonedaBLL.pdb
